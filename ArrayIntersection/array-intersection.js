@@ -26,3 +26,5 @@ var arrayIntersection = function(arr1, arr2) {
 
   return result;
 };
+
+//passed 1 test
