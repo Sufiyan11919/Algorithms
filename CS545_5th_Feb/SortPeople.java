@@ -1,34 +1,22 @@
 import java.util.HashMap;
 
 class SortPeople{
-    public static String[] sortPeople(String[] name, int[] heights){
+    public static String[] sortPeople(String[] names, int[] heights) {
 
-        HashMap<Integer,String> map = new HashMap<>();
-        for(int i = 0; i < name.length; i++){
-            map.put(heights[i], name[i]);
-        }
-        for(int i = 0; i < heights.length; i++){
-            int maxIndex = i;
-            for(int j = i+1; j< heights.length; j++){
-                if(heights[i]>heights[j]){
-                    maxIndex = j;
+        for (int i = 0; i < heights.length - 1; i++) {
+            for (int j = 0; j < heights.length - i - 1; j++) {
+                if (heights[j] < heights[j+1]) {
+                    int tempHeight = heights[j];
+                    heights[j] = heights[j+1];
+                    heights[j+1] = tempHeight;
+                    String tempName = names[j];
+                    names[j] = names[j+1];
+                    names[j+1] = tempName;
                 }
             }
-            int temp = heights[maxIndex];
-            heights[maxIndex] = heights[i];
-            heights[i] = temp;
-
         }
-        // for (int i = 0; i < heights.length; i++) {
-        //     for (int j = 0; j < heights.length - i - 1; j++) {
-        //         if (heights[j] > heights[j+1]) {
-        //             int temp = heights[j];
-        //             heights[j] = heights[j+1];
-        //             heights[j+1] = temp;
-        //         }
-        //     }
-        // }
-        return name;
+
+        return names;
     }
 
     public static void main(String[] args) {
@@ -38,5 +26,6 @@ class SortPeople{
         for(String name:results){
             System.out.println(name);
         }
+        // System.out.println(results);
     }
 }
