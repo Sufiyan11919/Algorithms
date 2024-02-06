@@ -17,3 +17,7 @@ Example 2:
 Input: names = ["Alice","Bob","Bob"], heights = [155,185,150]
 Output: ["Bob","Alice","Bob"]
 Explanation: The first Bob is the tallest, followed by Alice and the second Bob.
+
+
+Time Complexity: O(n^2)
+Space Complexity: O(1)

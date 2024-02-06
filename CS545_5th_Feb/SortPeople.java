@@ -1,8 +1,5 @@
-import java.util.HashMap;
-
 class SortPeople{
     public static String[] sortPeople(String[] names, int[] heights) {
-
         for (int i = 0; i < heights.length - 1; i++) {
             for (int j = 0; j < heights.length - i - 1; j++) {
                 if (heights[j] < heights[j+1]) {
@@ -15,7 +12,6 @@ class SortPeople{
                 }
             }
         }
-
         return names;
     }
 
