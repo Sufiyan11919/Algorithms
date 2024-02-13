@@ -1,5 +1,3 @@
-package CS545_12th_Feb;
-
 class first_palindrome_string {
     public String firstPalindrome(String[] words) {
         for (int i = 0; i < words.length; i++) {
