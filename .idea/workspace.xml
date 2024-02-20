@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee67180d-bb69-46db-99aa-065d0992a53c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/CS545_19th_Feb/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS545_19th_Feb/.idea/CS545_19th_Feb.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS545_19th_Feb/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS545_19th_Feb/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS545_19th_Feb/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS545_19th_Feb/xyz.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CS545_5th_Feb/README_SortColors.md" beforeDir="false" afterPath="$PROJECT_DIR$/CS545_5th_Feb/README_SortColors.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS545_12th_Feb/isPowerOfTwo.class" beforeDir="false" afterPath="$PROJECT_DIR$/CS545_12th_Feb/isPowerOfTwo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS545_12th_Feb/powerOfTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS545_12th_Feb/powerOfTwo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

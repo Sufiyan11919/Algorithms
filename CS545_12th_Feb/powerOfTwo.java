@@ -10,7 +10,7 @@ class isPowerOfTwo {
         return n % 2 ==0 && smallerAnswer;
     }
     public static void main(String[] args) {
-        int n = 16;
+        int n = 5;
         System.out.println(isPowOfTwo(n));
     }
 }
