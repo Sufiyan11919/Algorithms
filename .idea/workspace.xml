@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee67180d-bb69-46db-99aa-065d0992a53c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CS545_19th_Feb/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS545_19th_Feb/.idea/CS545_19th_Feb.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS545_19th_Feb/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS545_19th_Feb/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS545_19th_Feb/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS545_19th_Feb/xyz.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CS545_12th_Feb/isPowerOfTwo.class" beforeDir="false" afterPath="$PROJECT_DIR$/CS545_12th_Feb/isPowerOfTwo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CS545_12th_Feb/powerOfTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS545_12th_Feb/powerOfTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS545_26th_Feb/KthSmallest.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS545_26th_Feb/KthSmallest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS545_26th_Feb/KthSmalllest_readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/CS545_26th_Feb/KthSmalllest_readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,9 +33,23 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/sufiyan11919/Documents/MyUSF/Algorithms&quot;
+    &quot;last_opened_file_path&quot;: &quot;/Users/sufiyan11919/Documents/MyUSF/Algorithms&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="SortList.java" />
+      <module name="Algorithms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
